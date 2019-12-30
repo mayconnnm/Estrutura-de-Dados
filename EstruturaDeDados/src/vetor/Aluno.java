@@ -1,4 +1,4 @@
-package ed;
+package vetor;
 
 public class Aluno {
 
